@@ -35,7 +35,7 @@ public class FFDroidIdentificationPlugin implements FormatIdentificationPlugin {
 	 * attached, update SIG_VERSION Or 2 different plugins with the same jar path
 	 * and jar name
 	 */
-	private static String SIG_VERSION = "_112";
+	private static String SIG_VERSION = "_116";
 
 	static {
 		Map map=null;
